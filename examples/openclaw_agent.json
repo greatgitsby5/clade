@@ -1,0 +1,11 @@
+[
+  {"content": "User wants dark mode, specifically #2b2a27 background", "type": "preference", "created": "2026-02-16T11:00:00Z", "updated": "2026-02-16T11:00:00Z"},
+  {"content": "Tech stack: Preact with htm tagged templates, esbuild bundler", "type": "fact", "created": "2026-02-16T09:15:00Z", "updated": "2026-02-16T09:15:00Z"},
+  {"content": "Building a Claude companion PWA", "type": "fact", "created": "2026-02-15T14:00:00Z", "updated": "2026-02-15T14:00:00Z"},
+  {"content": "User lives in Berlin", "type": "fact", "created": "2026-01-15T10:00:00Z", "updated": "2026-01-15T10:00:00Z"},
+  {"content": "Build uses esbuild with zero errors policy", "type": "decision", "created": "2026-02-20T12:00:00Z", "updated": "2026-02-20T12:00:00Z"},
+  {"content": "All icons should be clean SVG line icons, no emoji", "type": "decision", "created": "2026-03-01T18:00:00Z", "updated": "2026-03-01T18:00:00Z"},
+  {"content": "User prefers code over conversation, no essays", "type": "preference", "created": "2026-02-14T09:00:00Z", "updated": "2026-02-14T09:00:00Z"},
+  {"content": "Sidebar has three tabs: Chats, Files, Archive", "type": "decision", "created": "2026-03-01T17:31:00Z", "updated": "2026-03-01T17:31:00Z"},
+  {"content": "Tone.js used for 8-sound palette", "type": "fact", "created": "2026-02-19T15:00:00Z", "updated": "2026-02-19T15:00:00Z"}
+]

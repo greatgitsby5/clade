@@ -1,0 +1,13 @@
+model: llama3.1:8b
+ollama_url: http://localhost:11434
+auto_accept_new: true
+auto_merge_duplicates: true
+require_review_conflicts: true
+redact_patterns:
+  - password
+  - api_key
+  - secret
+  - ssn
+  - credit card
+save_conversations: true
+log_format: markdown

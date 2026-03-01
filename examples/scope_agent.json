@@ -1,0 +1,16 @@
+[
+  {"content": "User prefers dark interfaces with warm tones", "type": "preference", "created": "2026-02-15T10:30:00Z", "updated": "2026-02-15T10:30:00Z"},
+  {"content": "Project uses Preact + htm, no React or JSX", "type": "decision", "created": "2026-02-16T09:00:00Z", "updated": "2026-02-16T09:00:00Z"},
+  {"content": "User's name is James", "type": "fact", "created": "2026-02-14T08:00:00Z", "updated": "2026-02-14T08:00:00Z"},
+  {"content": "App target: replace claude.ai for daily use", "type": "decision", "created": "2026-02-17T14:00:00Z", "updated": "2026-02-17T14:00:00Z"},
+  {"content": "User moved from Berlin to Frankfurt", "type": "correction", "created": "2026-02-28T11:00:00Z", "updated": "2026-02-28T11:00:00Z"},
+  {"content": "Font choice: IBM Plex Mono everywhere", "type": "decision", "created": "2026-02-16T09:30:00Z", "updated": "2026-02-16T09:30:00Z"},
+  {"content": "User speaks English and German", "type": "fact", "created": "2026-02-14T08:15:00Z", "updated": "2026-02-14T08:15:00Z"},
+  {"content": "No modals or popups in the UI, everything in chat or overlays", "type": "decision", "created": "2026-02-18T10:00:00Z", "updated": "2026-02-18T10:00:00Z"},
+  {"content": "Recording flow: mic → Whisper → transcript → new chat", "type": "decision", "created": "2026-02-25T16:00:00Z", "updated": "2026-02-25T16:00:00Z"},
+  {"content": "User prefers direct communication, no filler", "type": "preference", "created": "2026-02-14T08:30:00Z", "updated": "2026-02-14T08:30:00Z"},
+  {"content": "All dates use minimal format: DD/MM/YY, HH:MM", "type": "decision", "created": "2026-03-01T17:55:00Z", "updated": "2026-03-01T17:55:00Z"},
+  {"content": "Scope extractions get AI-generated 2-3 word titles", "type": "decision", "created": "2026-03-01T17:38:00Z", "updated": "2026-03-01T17:38:00Z"},
+  {"content": "Notepad closes with drag-down gesture, no close button", "type": "decision", "created": "2026-03-01T16:39:00Z", "updated": "2026-03-01T16:39:00Z"},
+  {"content": "Building a project called Scope — local-first Claude companion PWA", "type": "fact", "created": "2026-02-14T09:00:00Z", "updated": "2026-02-14T09:00:00Z"}
+]
