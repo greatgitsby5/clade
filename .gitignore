@@ -5,3 +5,4 @@ clade_logs/
 *.egg-info/
 dist/
 build/
+clade_logs/
