@@ -1,0 +1,10 @@
+Memory log — Coding Agent
+Last updated: 2026-02-28
+
+User's project is called Scope. It's a PWA messenger with AI.
+Tech stack: TypeScript, Vite, Anthropic API.
+User prefers Courier font in documents.
+User lives in Berlin (noted Jan 15).
+User wants local-first — no data leaves the machine.
+Background color preference: #2b2a27
+User has a GitHub account, recently activated.
