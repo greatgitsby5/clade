@@ -8,14 +8,6 @@ A clade is a group sharing a common ancestor. Your agents share you.
 
 ## Why Clade Exists
 
-### Your memories never leave your machine
-
-Every AI company stores your memories on their servers. OpenAI, Anthropic, Google — they remember you because their architecture requires it. Your preferences, your decisions, your context — stored in someone else's database.
-
-Clade runs on a local LLM. Ollama on your hardware. Your memories never touch a network. There is no server. There is no account. The conversation between your agents happens in a room nobody else can enter, because the room is your computer.
-
-This is not a feature. It is a design principle.
-
 ### The LLM is the universal adapter
 
 The software industry's answer to agent interop: build protocols. A2A, MCP, custom SDKs. All require every agent to implement the same spec.
@@ -26,6 +18,13 @@ Point Clade at any two files. JSON, Markdown, YAML, plaintext, CSV, a database d
 
 No adapter code. No format negotiation. No SDK. The protocol is the conversation. The conversation is the protocol.
 
+### Your memories never leave your machine
+
+Every AI company stores your memories on their servers. OpenAI, Anthropic, Google — they remember you because their architecture requires it. Your preferences, your decisions, your context — stored in someone else's database.
+
+Clade runs on a local LLM. Ollama on your hardware. Your memories never touch a network. There is no server. There is no account. The conversation between your agents happens in a room nobody else can enter, because the room is your computer.
+
+This is not a feature. It is a design principle.
 ---
 
 ## How It Works
